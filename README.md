@@ -8,7 +8,7 @@ ___
 
 The tool takes in 3 commandline parameters:
 
-1. **Location** - This has been tested in Delhi and NCR region (India)  <br><br>             
+1. **Location** - This has been tested in Delhi and NCR region (India)  <br>             
 South Delhi: south-delhi  <br>
                     West Delhi: west-delhi  <br>
                     Gurgaon: gurgaon  <br>
@@ -17,7 +17,7 @@ South Delhi: south-delhi  <br>
                     Ghaziabad: ghaziabad  <br>
                     East Delhi: east-delhi  <br>
 
-2. **Cuisine** - The kind of cuisine you'll like to be delivered to you <br><br>             
+2. **Cuisine** - The kind of cuisine you'll like to be delivered to you <br>             
 Chinese: chinese <br>
                    North Indian: north-indian  <br>
                    Italian: italian  <br>
@@ -26,7 +26,7 @@ Chinese: chinese <br>
                    Cafe: cafe  <br>
                    Refer to zomato.com for more cuisines and use them accordingly  <br>
 
-3. **Cost for two** -  <br><br>             
+3. **Cost for two** -  <br>             
 Less than 250: 0  <br>
                    250 - 500: 1  <br>
                    500 - 1000: 2  <br>
