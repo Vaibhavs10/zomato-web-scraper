@@ -4,10 +4,13 @@
 
 The idea of this tool came in out of sheer laziness, I wanted a tool which given certain parameters mails me the best delivery outlets near me, hence came this tool :D
 
+___
+
 The tool takes in 3 commandline parameters:
 
 1. **Location** - This has been tested in Delhi and NCR region (India)  <br>
-             List: South Delhi: south-delhi  <br>
+<br>             
+South Delhi: south-delhi  <br>
                     West Delhi: west-delhi  <br>
                     Gurgaon: gurgaon  <br>
                     Noida: noida  <br>
@@ -16,7 +19,8 @@ The tool takes in 3 commandline parameters:
                     East Delhi: east-delhi  <br>
 
 2. **Cuisine** - The kind of cuisine you'll like to be delivered to you <br>
-             List: Chinese: chinese <br>
+<br>             
+Chinese: chinese <br>
                    North Indian: north-indian  <br>
                    Italian: italian  <br>
                    Continental: continental  <br>
@@ -25,7 +29,8 @@ The tool takes in 3 commandline parameters:
                    Refer to zomato.com for more cuisines and use them accordingly  <br>
 
 3. **Cost for two** -  <br>
-             List: Less than 250: 0  <br>
+<br>             
+Less than 250: 0  <br>
                    250 - 500: 1  <br>
                    500 - 1000: 2  <br>
                    1000 - 1500: 3  <br>
